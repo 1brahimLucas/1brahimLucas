@@ -47,19 +47,6 @@ public class IbrahimLucas {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=1brahimLucas&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brahimLucas&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
