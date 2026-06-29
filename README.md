@@ -1,8 +1,7 @@
-````md
 <h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
 
 <p align="center">
-  ☕ Desenvolvedor Java | Estudante <br>
+  💻 Desenvolvedor Java em formação <br>
   🚀 Apaixonado por tecnologia desde criança
 </p>
 
@@ -19,17 +18,19 @@
 ```java
 public class IbrahimLucas {
 
-    private final String nome = "Ibrahim Lucas";
-    private final int idade = 17;
-    private final String cidade = "Blumenau - SC";
-    private final String escolaridade = "3º ano do Ensino Médio";
-    private final String linguagem = "Java";
+    String nome = "Ibrahim Lucas";
+    int idade = 17;
+    String cidade = "Blumenau - SC";
+    String escolaridade = "3º ano do Ensino Médio";
 
-    public void sobreMim() {
-        System.out.println("💻 Gosto de tecnologia desde criança.");
-        System.out.println("🚀 Sempre buscando aprender algo novo.");
-        System.out.println("☕ Programando em Java.");
-    }
+    String linguagem = "Java ☕";
+
+    String[] hobbies = {
+        "Tecnologia",
+        "Programação",
+        "Resolver desafios",
+        "Aprender todos os dias"
+    };
 
 }
 ```
@@ -58,7 +59,7 @@ public class IbrahimLucas {
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak
 
 <div align="center">
 
@@ -89,17 +90,21 @@ public class IbrahimLucas {
 
 ---
 
-## 📚 Atualmente
+## 🎯 Objetivos
 
-- ☕ Estudando Java
-- 📖 Aprendendo boas práticas de programação
-- 🚀 Desenvolvendo projetos para ganhar experiência
+🌱 Evoluir como desenvolvedor Java
+
+🚀 Conquistar minha primeira oportunidade na área
+
+📚 Aprender novas tecnologias
+
+💡 Desenvolver projetos que resolvam problemas reais
 
 ---
 
 ## 🌎 Onde me encontrar
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/1brahimLucas">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -111,7 +116,10 @@ public class IbrahimLucas {
 
 <div align="center">
 
+### 💬
+
+> **"A melhor forma de aprender é construindo projetos e enfrentando novos desafios."**
+
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-````
