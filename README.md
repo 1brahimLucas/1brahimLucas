@@ -1,122 +1,45 @@
-<h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
+# 👋 E aí, eu sou o Ibrahim!
 
-<p align="center">
-  💻 Desenvolvedor Java em formação <br>
-  🚀 Apaixonado por tecnologia desde criança
+💻 Tenho 17 anos e moro em Blumenau - SC.
+
+🎓 Estou no 3º ano do Ensino Médio.
+
+☕ Programo principalmente em Java e gosto de tecnologia desde criança.
+
+🚀 Curto aprender coisas novas e resolver desafios. Sempre tento evoluir um pouco todos os dias.
+
+---
+
+## 🛠️ Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
 </p>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Java+Developer+☕;Sempre+aprendendo+algo+novo.;Código,+café+e+desafios!)
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-```java
-public class IbrahimLucas {
-
-    String nome = "Ibrahim Lucas";
-    int idade = 17;
-    String cidade = "Blumenau - SC";
-    String escolaridade = "3º ano do Ensino Médio";
-
-    String linguagem = "Java ☕";
-
-    String[] hobbies = {
-        "Tecnologia",
-        "Programação",
-        "Resolver desafios",
-        "Aprender todos os dias"
-    };
-
-}
-```
-
----
-
-## 💻 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,linux" />
-
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## ☕
 
-<div align="center">
+```java
+public class Ibrahim {
 
-```text
-             (
-              )     (
-           ___...(-------)-....___
-       .-""       )    (          ""-.
- .-'``'|-._             ☕             _.-|
-/  .--.|   `""---...........---""`   |
-|  |   |      Java Developer ☕       |
- \  `--'                         _.-'
-  `-.___               _______.-'
-         ``----------''
+    public static void main(String[] args) {
+
+        System.out.println("Sempre aprendendo ☕");
+
+    }
+
+}
 ```
-
-</div>
-
----
-
-## 🎯 Objetivos
-
-🌱 Evoluir como desenvolvedor Java
-
-🚀 Conquistar minha primeira oportunidade na área
-
-📚 Aprender novas tecnologias
-
-💡 Desenvolver projetos que resolvam problemas reais
-
----
-
-## 🌎 Onde me encontrar
-
-<p align="left">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💬
 
 > **"A melhor forma de aprender é construindo projetos e enfrentando novos desafios."**
 
