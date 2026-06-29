@@ -35,7 +35,6 @@ public class IbrahimLucas {
 }
 ```
 
----
 
 ## 💻 Tecnologias
 
@@ -73,20 +72,3 @@ public class IbrahimLucas {
 💡 Desenvolver projetos que resolvam problemas reais
 
 ---
-
-## 🌎 Onde me encontrar
-
-<p align="left">
-
-<a href="https://github.com/1brahimLucas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-
-</div>
