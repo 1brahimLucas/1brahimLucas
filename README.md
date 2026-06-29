@@ -1,67 +1,125 @@
-# 👋 Olá, eu sou o Ibrahim Lucas!
+<h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
 
-```java
-        (
-         )
-      .-^^-.
-     / ☕   \
-    |  JAVA |
-     \     /
-      `---'
-       ||||
-       ||||
-```
+<p align="center">
+  💻 Desenvolvedor Java em formação <br>
+  🚀 Apaixonado por tecnologia desde criança
+</p>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Java+Developer+☕;Sempre+aprendendo+algo+novo.;Código,+café+e+desafios!)
+
+</div>
+
+---
 
 ## 🚀 Sobre mim
 
-- 👤 Me chamo **Ibrahim Lucas**
-- 🎂 Tenho **17 anos**
-- 📍 Moro em **Blumenau - SC**
-- 🎓 Estou no **3º ano do Ensino Médio**
-- 💻 Programo principalmente em **Java**
-- ❤️ Gosto de tecnologia desde criança
-- 🧩 Curto desafios e estou sempre tentando aprender algo novo todos os dias.
+```java
+public class IbrahimLucas {
+
+    String nome = "Ibrahim Lucas";
+    int idade = 17;
+    String cidade = "Blumenau - SC";
+    String escolaridade = "3º ano do Ensino Médio";
+
+    String linguagem = "Java ☕";
+
+    String[] hobbies = {
+        "Tecnologia",
+        "Programação",
+        "Resolver desafios",
+        "Aprender todos os dias"
+    };
+
+}
+```
 
 ---
 
 ## 💻 Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode,linux" />
+
+</div>
 
 ---
 
-## 📚 Atualmente
+## 📊 GitHub Stats
 
-- ☕ Estudando Java para evoluir cada vez mais.
-- 📖 Aprendendo boas práticas de programação.
-- 🚀 Desenvolvendo projetos para ganhar experiência.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ☕
+
+<div align="center">
+
+```text
+             (
+              )     (
+           ___...(-------)-....___
+       .-""       )    (          ""-.
+ .-'``'|-._             ☕             _.-|
+/  .--.|   `""---...........---""`   |
+|  |   |      Java Developer ☕       |
+ \  `--'                         _.-'
+  `-.___               _______.-'
+         ``----------''
+```
+
+</div>
 
 ---
 
 ## 🎯 Objetivos
 
-- Conseguir minha primeira oportunidade como desenvolvedor.
-- Aprender novas tecnologias.
-- Criar projetos cada vez mais completos.
-- Evoluir um pouco todos os dias.
+🌱 Evoluir como desenvolvedor Java
+
+🚀 Conquistar minha primeira oportunidade na área
+
+📚 Aprender novas tecnologias
+
+💡 Desenvolver projetos que resolvam problemas reais
 
 ---
 
-## 📈 GitHub Stats
+## 🌎 Onde me encontrar
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💬 Frase
+<div align="center">
 
-> *"Grandes resultados são construídos com pequenos aprendizados todos os dias."*
+### 💬
 
----
+> **"A melhor forma de aprender é construindo projetos e enfrentando novos desafios."**
 
 ⭐ Obrigado por visitar meu perfil!
+
+</div>
