@@ -1,4 +1,3 @@
-````md
 <h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
 
 <p align="center">
@@ -52,9 +51,9 @@ public class IbrahimLucas {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=1brahimLucas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1brahimLucas&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -64,7 +63,7 @@ public class IbrahimLucas {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=1brahimLucas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -107,7 +106,7 @@ public class IbrahimLucas {
 
 <p align="left">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/1brahimLucas">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -124,5 +123,3 @@ public class IbrahimLucas {
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-````
-
