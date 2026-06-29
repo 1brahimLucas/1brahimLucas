@@ -58,17 +58,5 @@ public class IbrahimLucas {
 </div>
 
 
-
 ---
 
-## 🎯 Objetivos
-
-🌱 Evoluir como desenvolvedor Java
-
-🚀 Conquistar minha primeira oportunidade na área
-
-📚 Aprender novas tecnologias
-
-💡 Desenvolver projetos que resolvam problemas reais
-
----
