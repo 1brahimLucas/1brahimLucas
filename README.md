@@ -18,7 +18,7 @@
 
 ## 💻 Sobre mim
 
-java
+```java
 public class IbrahimLucas {
 
     public static void main(String[] args) {
@@ -35,7 +35,7 @@ public class IbrahimLucas {
     }
 
 }
-
+```
 
 ---
 
@@ -71,6 +71,7 @@ text
           `----'
 
         Java ☕
+
 
 
 
