@@ -1,93 +1,128 @@
-
-<h1 align="center">Olá! 👋 Eu sou o Ibrahim Lucas</h1>
-
-<p align="center">
-  <b>☕ Desenvolvedor Java em formação</b><br>
-  Apaixonado por tecnologia desde criança e sempre buscando aprender algo novo.
-</p>
+````md
+<h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=F89820&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Java+Developer+☕;Sempre+aprendendo+algo+novo."/>
+  💻 Desenvolvedor Java em formação <br>
+  🚀 Apaixonado por tecnologia desde criança
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Java+Developer+☕;Sempre+aprendendo+algo+novo.;Código,+café+e+desafios!)
+
+</div>
 
 ---
 
-## 💻 Sobre mim
+## 🚀 Sobre mim
 
 ```java
 public class IbrahimLucas {
 
-    public static void main(String[] args) {
+    String nome = "Ibrahim Lucas";
+    int idade = 17;
+    String cidade = "Blumenau - SC";
+    String escolaridade = "3º ano do Ensino Médio";
 
-        Developer me = new Developer(
-            "Ibrahim Lucas",
-            17,
-            "Blumenau - SC",
-            "Java"
-        );
+    String linguagem = "Java ☕";
 
-        me.learning("Todos os dias");
-        me.goal("Ser um desenvolvedor melhor a cada projeto");
-    }
+    String[] hobbies = {
+        "Tecnologia",
+        "Programação",
+        "Resolver desafios",
+        "Aprender todos os dias"
+    };
 
 }
 ```
 
 ---
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
+
+</div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
-<p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## ☕
 
-text
-           ( (
-            ) )
-         ........
-         |      |]
-         \      /
-          `----'
+<div align="center">
 
-        Java ☕
+```text
+             (
+              )     (
+           ___...(-------)-....___
+       .-""       )    (          ""-.
+ .-'``'|-._             ☕             _.-|
+/  .--.|   `""---...........---""`   |
+|  |   |      Java Developer ☕       |
+ \  `--'                         _.-'
+  `-.___               _______.-'
+         ``----------''
+```
 
+</div>
 
+---
 
+## 🎯 Objetivos
 
-## 📫 Contato
+🌱 Evoluir como desenvolvedor Java
 
-<p align="center">
-    <a href="https://github.com/SEU_USUARIO">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
+🚀 Conquistar minha primeira oportunidade na área
+
+📚 Aprender novas tecnologias
+
+💡 Desenvolver projetos que resolvam problemas reais
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
+### 💬
+
+> **"A melhor forma de aprender é construindo projetos e enfrentando novos desafios."**
+
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
 ````
+
