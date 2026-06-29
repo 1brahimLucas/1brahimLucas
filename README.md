@@ -58,26 +58,7 @@ public class IbrahimLucas {
 
 </div>
 
----
 
-## ☕
-
-<div align="center">
-
-```text
-             (
-              )     (
-           ___...(-------)-....___
-       .-""       )    (          ""-.
- .-'``'|-._             ☕             _.-|
-/  .--.|   `""---...........---""`   |
-|  |   |      Java Developer ☕       |
- \  `--'                         _.-'
-  `-.___               _______.-'
-         ``----------''
-```
-
-</div>
 
 ---
 
@@ -107,10 +88,5 @@ public class IbrahimLucas {
 
 <div align="center">
 
-### 💬
-
-> **"A melhor forma de aprender é construindo projetos e enfrentando novos desafios."**
-
-⭐ Obrigado por visitar meu perfil!
 
 </div>
