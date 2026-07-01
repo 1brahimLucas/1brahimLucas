@@ -31,7 +31,7 @@ Também estou cursando o programa +DevsToBlu, fazendo curso de Java com carga ho
 
 ## 🚀 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode"/>
 
 </div>
 
