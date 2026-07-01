@@ -1,60 +1,70 @@
-<h1 align="center">👋 Olá! Eu sou o Ibrahim Lucas</h1>
-
-<p align="center">
-  💻 Desenvolvedor Java em formação <br>
-  
-</p>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Ibrahim%20Lucas&fontSize=40&fontColor=ffffff&animation=fadeIn%22"/>
 
 </div>
-
-## 🚀 Sobre mim
-
-```java
-public class IbrahimLucas {
-
-    String nome = "Ibrahim Lucas";
-    int idade = 17;
-    String cidade = "Blumenau - SC";
-    String escolaridade = "3º ano do Ensino Médio";
-
-    String linguagem = "Java ☕";
-
-    String[] hobbies = {
-        "Programação",
-        "Academia",
-        "Jogos"
-        "Música"
-    };
-
-}
-```
-
-
-## 💻 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" />
-
-</div>
-
-
-
 
 ---
 
-## 🔥 Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=1brahimLucas&theme=tokyonight&hide_border=true"/>
+## 💫 Sobre Mim
+
+Cursando o 3º ano do Ensino Médio com curso Técnico integrado em Desenvolvimento de Sistemas no SENAI Blumenau/SC.
+Também estou cursando o programa +DevsToBlu, fazendo curso de Java com carga horária de 480h.
 
 </div>
 
+---
+
+<div align="center">
+
+# 👨‍💻 Ibrahim Lucas
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Java+Developer;🗄️+Banco+de+Dados;"/>
+
+</div>
 
 ---
 
+<div align="center">
+
+## 🚀 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Contato
+
+<a href="mailto:guilherme_b_cunha@estudante.sesisenai.org.br">
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/guilhermebragagnolo">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
+
+</div>
