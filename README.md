@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Java em formação <br>
-  🚀 Apaixonado por tecnologia desde criança
+  
 </p>
 
 <div align="center">
