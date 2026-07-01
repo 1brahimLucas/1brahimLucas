@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Java+Developer+%E2%98%95)
+![Typing SVG]https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!
 
 </div>
 
