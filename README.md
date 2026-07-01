@@ -26,10 +26,10 @@ public class IbrahimLucas {
     String linguagem = "Java ☕";
 
     String[] hobbies = {
-        "Tecnologia",
         "Programação",
-        "Resolver desafios",
-        "Aprender todos os dias"
+        "Academia",
+        "Jogos"
+        "Música"
     };
 
 }
